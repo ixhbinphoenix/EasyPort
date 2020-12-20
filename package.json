@@ -1,0 +1,26 @@
+{
+  "name": "easyport",
+  "version": "1.0.0",
+  "description": "Easily open Ports using upnp",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoenixGames-Phoenix/EasyPort.git"
+  },
+  "keywords": [
+    "Port-Forwarding",
+    "Upnp"
+  ],
+  "author": "Phoenix_13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhoenixGames-Phoenix/EasyPort/issues"
+  },
+  "homepage": "https://github.com/PhoenixGames-Phoenix/EasyPort#readme",
+  "dependencies": {
+    "nat-api": "^0.3.0"
+  }
+}
